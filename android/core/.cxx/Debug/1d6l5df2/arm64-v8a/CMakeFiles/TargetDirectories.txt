@@ -1,0 +1,3 @@
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/Debug/1d6l5df2/arm64-v8a/CMakeFiles/core.dir
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/Debug/1d6l5df2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/Debug/1d6l5df2/arm64-v8a/CMakeFiles/rebuild_cache.dir

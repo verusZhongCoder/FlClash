@@ -1,0 +1,3 @@
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/armeabi-v7a/CMakeFiles/core.dir
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

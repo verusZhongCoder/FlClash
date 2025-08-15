@@ -1,0 +1,4 @@
+# ninja log v5
+0	104	1755240509692034152	CMakeFiles/core.dir/core.cpp.o	d5cf899bf28fbfd3
+0	182	1755240509767955458	CMakeFiles/core.dir/jni_helper.cpp.o	6a167935b49f45c4
+182	340	1755240509926994229	/Users/verus/flutter/project/FlClash2/build/core/intermediates/cxx/Debug/1d6l5df2/obj/x86/libcore.so	a8f8b5276faac7d4

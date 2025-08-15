@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/verus/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/verus/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "core::@6890427a1f51a3e7e1df": {
+      "artifactName": "core",
+      "abi": "x86_64",
+      "output": "/Users/verus/flutter/project/FlClash2/build/core/intermediates/cxx/RelWithDebInfo/1uf4k3l3/obj/x86_64/libcore.so",
+      "runtimeFiles": []
+    }
+  }
+}

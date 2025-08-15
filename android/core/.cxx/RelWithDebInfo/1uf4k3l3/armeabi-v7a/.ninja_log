@@ -1,0 +1,4 @@
+# ninja log v5
+0	89	1755240664210499824	CMakeFiles/core.dir/core.cpp.o	8d54551b417eb0cc
+0	131	1755240664253899399	CMakeFiles/core.dir/jni_helper.cpp.o	462a0600c10bcfb8
+132	273	1755240664397808926	/Users/verus/flutter/project/FlClash2/build/core/intermediates/cxx/RelWithDebInfo/1uf4k3l3/obj/armeabi-v7a/libcore.so	81274171334d672

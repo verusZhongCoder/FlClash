@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/arm64-v8a",
+  "command": "/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DLIBCLASH -Dcore_EXPORTS -I/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/../jniLibs/arm64-v8a -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -O3 -flto -g0 -ffunction-sections -fdata-sections -fno-exceptions -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/core.dir/jni_helper.cpp.o -c /Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/jni_helper.cpp",
+  "file": "/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/jni_helper.cpp"
+},
+{
+  "directory": "/Users/verus/flutter/project/FlClash2/android/core/.cxx/RelWithDebInfo/1uf4k3l3/arm64-v8a",
+  "command": "/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DLIBCLASH -Dcore_EXPORTS -I/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/../jniLibs/arm64-v8a -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -O3 -flto -g0 -ffunction-sections -fdata-sections -fno-exceptions -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/core.dir/core.cpp.o -c /Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/core.cpp",
+  "file": "/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/core.cpp"
+}
+]

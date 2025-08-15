@@ -1,0 +1,1 @@
+/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/CMakeLists.txt

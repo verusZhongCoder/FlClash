@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/verus/flutter/project/FlClash2/android/core/.cxx/Debug/1d6l5df2/armeabi-v7a",
+  "command": "/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --sysroot=/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcore_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/core.dir/jni_helper.cpp.o -c /Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/jni_helper.cpp",
+  "file": "/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/jni_helper.cpp"
+},
+{
+  "directory": "/Users/verus/flutter/project/FlClash2/android/core/.cxx/Debug/1d6l5df2/armeabi-v7a",
+  "command": "/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --sysroot=/Users/verus/Library/Android/sdk/ndk/28.0.13004108/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcore_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/core.dir/core.cpp.o -c /Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/core.cpp",
+  "file": "/Users/verus/flutter/project/FlClash2/android/core/src/main/cpp/core.cpp"
+}
+]
